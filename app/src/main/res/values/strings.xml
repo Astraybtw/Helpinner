@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Helpinner</string>
+    <string name="Input">Введите фамилию</string>
+    <string name="Регистрация">This is an <u>underline</u>.</string>
+</resources>
